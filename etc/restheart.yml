@@ -74,7 +74,7 @@ use-embedded-keystore: true
 # Be sure that the following credentials match with the
 # MONGO_INITDB_ROOT_USERNAME and MONGO_INITDB_ROOT_PASSWORD in docker-compose.yml
 # WARNING: change in both files the below default credentials!
-mongo-uri: mongodb://hyoonflask:IwIgi2BCCe!@mongodb/
+mongo-uri: mongodb://hyoonflask:IwIgi2BCCe!@localhost:27017/
 # mongodb://hyoonflask:IwIgi2BCCe!@localhost:27017/
   # mongodb://restheart:R3ste4rt!@mongodb
 
